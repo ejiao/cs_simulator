@@ -87,7 +87,7 @@ var cit =
                ], 
               "marriage": [ 
                      "#csthing# is my #s/o#",
-                     "I'm married to the #csthing#."
+                     "I'm married to #csthing#."
                ], 
                "csthing": [ 
                      "CS", 
