@@ -44,7 +44,10 @@ var cit =
                         "applying to jobs", 
                         "in line for hours", 
                         "crying into my Kebab and Curry", 
-                        "searching for this fucking SegFault"
+                        "searching for this fucking SegFault", 
+                        "and everything is SegFaulting",
+                        "and none of my test cases pass",
+                        "and I've only passed 1/22 test cases"
           ],
           "location-phrase": [
             "in the CIT",
