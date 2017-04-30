@@ -43,7 +43,8 @@ var cit =
                         "trying to understand the #incomprehensible#", 
                         "applying to jobs", 
                         "in line for hours", 
-                        "crying into my Kebab and Curry"
+                        "crying into my Kebab and Curry", 
+                        "searching for this fucking SegFault"
           ],
           "location-phrase": [
             "in the CIT",
