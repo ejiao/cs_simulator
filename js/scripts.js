@@ -113,7 +113,8 @@ var cit =
                      "SOMEONE here has to know a good elevator optimization algorithm", 
                      "I think my card is broken - it won't let me swipe to the 3rd floor?",
                      "Kebab and Curry on the 3rd floor!", 
-                     "I have become one with the CIT."
+                     "I have become one with the CIT.", 
+                     "I have become one with #csthing#"
                ], 
         }
   $('document').ready(function(){ 
