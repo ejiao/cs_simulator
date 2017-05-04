@@ -4,6 +4,7 @@ var cit =
           "origin": [
             "#complaint#",
             "#complaint#",
+            "#complaint#",
             "#question#",
             "#misc#"
           ],
@@ -27,10 +28,20 @@ var cit =
                 ],
                 "utterance": [ 
                         "Ugh I can't go tonight, sorry",
-                        "Hey can we reschedule dinner",
+                        "You guys can go without me tonight", 
+                        "Hey can we reschedule #non_cs_activity#",
+                        "Hey can we reschedule #non_cs_activity#",
                         "Help", 
+                        "Help me",
                         "RIP"
                 ], 
+                "non_cs_activity": [ 
+                  "dinner", 
+                  "dinner", 
+                  "our date", 
+                  "our meeting",
+                  "tonight"
+                ],
           "work": [
             "working on #class#",
             "and #class# is destroying me",
